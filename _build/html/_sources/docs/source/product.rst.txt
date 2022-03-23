@@ -32,14 +32,6 @@ Report
 
 
 
-Report
------------
-
-#. Consumer usage reaches 500
-#. User retention is low
-
-
-
 Product Requirements
 -----------
 
