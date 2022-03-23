@@ -8,7 +8,7 @@ In-line with the agenda, Milo offers a lot with endless applications!
 
 .. note::
 
-   This project is completed under Beta.
+   This project is under Development.
 
 Contents
 --------

@@ -1,9 +1,5 @@
-Product
-=====
-
-
 Project Timeline
-------------
+-----------
 
 .. list-table:: Tentative Dates
    :widths: 60 30
@@ -18,29 +14,33 @@ Project Timeline
    * - Optimised Release
      - May 2022
 
-To use Lumache, first install it using pip:
 
-.. code-block:: console
 
-   (.venv) $ pip install lumache
+Internal Meeting Notes
+-----------
 
-Creating recipes
-----------------
+* Switch the Backend to Node.js
+* Switch the DB to MongoDB
+* UI Issue of compulsory reload to be resolved
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
 
-.. autofunction:: lumache.get_random_ingredients
+Report
+-----------
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+#. Consumer usage reaches 500
+#. User retention is low
 
-.. autoexception:: lumache.InvalidKindError
 
-For example:
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+Report
+-----------
 
+#. Consumer usage reaches 500
+#. User retention is low
+
+
+
+Product Requirements
+-----------
+
+#. Urgent requirement of Backend-dev to port code to Express.js
