@@ -1,5 +1,5 @@
-Project Timeline
------------
+Product
+============
 
 .. list-table:: Tentative Dates
    :widths: 60 30
