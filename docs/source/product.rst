@@ -1,10 +1,22 @@
 Product
 =====
 
-.. _installation:
 
-Installation
+Project Timeline
 ------------
+
+.. list-table:: Tentative Dates
+   :widths: 60 30
+   :header-rows: 1
+
+   * - Action
+     - Tentative Date
+   * - Beta Deployment
+     - April 2021
+   * - Soft Launch
+     - February 2022
+   * - Optimised Release
+     - May 2022
 
 To use Lumache, first install it using pip:
 
